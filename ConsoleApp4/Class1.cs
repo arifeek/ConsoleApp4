@@ -14,5 +14,8 @@ namespace ConsoleApp4
         {
             Console.WriteLine("Class 1 second change!");
         }
-    }
+        public static void Method3()
+        {
+            Console.WriteLine("Class 1 added method 3!");
+        }
 }
