@@ -10,9 +10,5 @@ namespace ConsoleApp4
         {
             Console.WriteLine("Class 1 for version 1.1!");
         }
-        public static void Method2()
-        {
-            Console.WriteLine("Class 1 second change!");
-        }
     }
 }

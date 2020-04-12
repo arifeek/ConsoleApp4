@@ -8,7 +8,6 @@ namespace ConsoleApp4
         {
             Console.WriteLine("Hello World!");
             Class1.Method1();
-            Class1.Method2();
         }
     }
 }
